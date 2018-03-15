@@ -1,3 +1,3 @@
 # traj_similarity
 
-# This is an review of existing methods for calculating trajectory similarity.
+# This is a review PPT of trajectory similarity measures. 
