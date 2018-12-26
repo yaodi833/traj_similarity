@@ -1,3 +1,3 @@
 # traj_similarity
 
-# This is a review PPT of trajectory similarity measures. 
+# This is a review slides of trajectory similarity measures. 
